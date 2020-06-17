@@ -1,4 +1,4 @@
-# Identify-Dance-Form-Hackerearth-CHallenge
+# Identify-Dance-Form-Hackerearth-Challenge
 
 # Context:
 
