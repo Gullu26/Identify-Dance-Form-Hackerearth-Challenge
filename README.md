@@ -9,9 +9,14 @@ You are appointed as a Machine Learning Engineer for this project. Your task is 
 # Content: 
 The data folder consists of two folders and two .csv files. The details are as follows:
 
-train: Contains 364 images for 8 classes ['manipuri','bharatanatyam','odissi','kathakali','kathak','sattriya','kuchipudi','mohiniyattam']
+train: Contains 364 images for 8 classes 
+
+['manipuri','bharatanatyam','odissi','kathakali','kathak','sattriya','kuchipudi','mohiniyattam']
+
 test: Contains 156 images
+
 train.csv: 364 x 2
+
 test.csv: 156 x 1
 
 # Acknowledgements :
